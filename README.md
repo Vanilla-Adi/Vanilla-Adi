@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vanilla-Adi
 - 👀 I’m interested in new technologies
-- 🌱 I’m currently learning React, React-Native
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Blender, WebVR, WebAR
+- 💞️ I’m looking to collaborate on state-of-the-art apps with like minded people.
 - 📫 How to reach me adrian@millennials.agency
 
 <!---
